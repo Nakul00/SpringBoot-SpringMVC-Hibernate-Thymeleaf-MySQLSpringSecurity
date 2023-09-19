@@ -1,4 +1,4 @@
-# SpringBoot-SpringMVC-Hibernate-Thymeleaf-MySQLSpringSecurity
+# SpringBoot-SpringMVC-Hibernate-Thymeleaf-MySQL-Spring-Security
 
 This project works on Spring Boot project using Spring MVC, Hibernate, Thymeleaf, MySQL and finally using Spring Security for the application.
 
